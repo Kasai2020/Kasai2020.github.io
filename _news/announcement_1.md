@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated with my Master's in Robotics :mortar_board:
+Graduated with my Master's in Robotics from UMN :mortar_board:
