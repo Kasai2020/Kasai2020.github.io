@@ -6,3 +6,4 @@ inline: True
 related_posts: false
 ---
 
+Started as a Research Intern at Samsung AI NYC :rocket:
