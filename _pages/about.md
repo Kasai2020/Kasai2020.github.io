@@ -18,4 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Current Research Engineer at Samsung AI Center NYC.  Multiple first author publications in top tier computer vision conferences (ICCV, ECCV).  Master's in Robotics from University of Minnesota.  Excited about the future of AI/robotics!
+I am currently a Research Engineer at Samsung AI Center NYC, where I have the privilege of contributing to innovative advancements in the field. I am proud to have multiple first author publications in prestigious computer vision conferences such as ICCV and ECCV. I hold a Master's degree in Robotics from the University of Minnesota, which has equipped me with a strong understanding in the area of computer vision and robotics.
+
+My deep enthusiasm lies in the future of AI and robotics, as I am constantly inspired by the potential they hold. I hope to continue to explore new possibilities and pioneer novel methodologies, aiming to make notable contributions to these fields.
