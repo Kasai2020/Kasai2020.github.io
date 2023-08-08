@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my paper (poster & oral) at ECCV 2022 :microphone:
+Presented paper (poster & oral) at ECCV 2022 :microphone:
