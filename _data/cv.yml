@@ -16,7 +16,7 @@
       year: 2022
       description:
         - Learned and implemented traditional and deep learning computer vision methods such as, camera pose estimation, multi-view camera calibration, bundle adjustment, stereo vision, key-point detection, segmentation, and more.
-        - Acquired hands-on experience in applying common robotics algorithms such as SLAM, wall detection, visual Servoing, forward kinematics, inverse kinematics, quaternions, etc.
+        - Acquired hands-on experience in applying common robotics algorithms such as SLAM, wall detection, visual servoing, forward kinematics, inverse kinematics, quaternions, etc.
         # - title: 
         #   contents:
         #     - Sub-description 1.
