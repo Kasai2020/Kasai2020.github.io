@@ -36,7 +36,7 @@
       year: 2023
       description:
         - Description 1.
-        - title: Worked on projects such as:
+        - title: Worked on projects such as
           contents:
             - 6D Object Pose Estimation for Robotic Grasping
             - Generalizable 3D Scene Reconstruction
@@ -53,8 +53,10 @@
       institution: University of Minnesota
       year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Worked under Professor Hyun Soo Park in collaboration with Toyota Research Institute to better understand driver attention.
+        - title: Worked under Professor Hyun Soo Park in collaboration with Toyota Research Institute to better understand driver attention.
+          contents:
+            - 6D Object Pose Estimation for Robotic Grasping
 
     - title: Software Engineer
       institution: Cirrus Aircraft
