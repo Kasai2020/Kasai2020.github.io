@@ -36,7 +36,12 @@
       year: 2023
       description:
         - Description 1.
-        - Description 2.
+        - title: Worked on projects such as:
+          contents:
+            - 6D Object Pose Estimation for Robotic Grasping
+            - Generalizable 3D Scene Reconstruction
+            - Tracking/Following Humans with Mobile Robots
+            - Lidar from Mobile Robot to Floorplan Generation
     - title: Research Intern
       institution: Samsung AI Center NYC
       year: 2022-2023
@@ -64,26 +69,26 @@
   contents:
     - year: 2022
       items: 
-        - Selected for Oral Presentation ECCV 2022
+        - Selected to present in front of 200 people for Oral Presentation ECCV 2022
     - year: 2019
       items: 
         - Dean's List at University of Minnesota
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Computer Vision
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Machine Learning
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Robotics
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Computer Vision
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Machine Learning
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Robotics
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
