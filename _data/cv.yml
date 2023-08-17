@@ -15,12 +15,12 @@
       institution: University of Minnesota
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Learned and implemented traditional and deep learning computer vision methods such as, camera pose estimation, multi-view camera calibration, bundle adjustment, stereo vision, key-point detection, segmentation, and more.
+        - Acquired hands-on experience in applying common robotics algorithms such as SLAM, wall detection, visual Servoing, forward kinematics, inverse kinematics, quaternions, etc.
+        # - title: 
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: Bachelor of Science in Computer Science
       institution: University of Minnesota
       year: 2019
