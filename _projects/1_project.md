@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Self-Supervised Driver Gaze Estimation
+description: ECCV 2022
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: publications
 ---
 
 Every project has a beautiful feature showcase page.
