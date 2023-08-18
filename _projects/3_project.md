@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Simultaneous Shape & Grasp Estimation
+description: IROS 2023
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: http://arxiv.org/abs/2305.09510
 importance: 3
-category: work
+category: publications
 ---
 
 Every project has a beautiful feature showcase page.
