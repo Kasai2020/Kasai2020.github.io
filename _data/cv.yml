@@ -35,7 +35,7 @@
       institution: Samsung AI Center NYC
       year: 2023
       description:
-        - Description 1.
+        - D
         - title: Worked on projects such as
           contents:
             - 6D Object Pose Estimation for Robotic Grasping
@@ -46,17 +46,18 @@
       institution: Samsung AI Center NYC
       year: 2022-2023
       description:
-        - Description 1.
-        - Description 2.
+        - D
 
     - title: Research Assistant
       institution: University of Minnesota
       year: 2021-2022
       description:
-        - Worked under Professor Hyun Soo Park in collaboration with Toyota Research Institute to better understand driver attention.
         - title: Worked under Professor Hyun Soo Park in collaboration with Toyota Research Institute to better understand driver attention.
           contents:
-            - 6D Object Pose Estimation for Robotic Grasping
+            - Collected a large multi-camera dataset of real drivers on real roads.
+            - Learned about camera calibration as well as synchronization.
+            - Implemented a self-supervised learning approach to estimate both driver gaze and road scene saliency.
+            - Published paper in European Conference for Computer Vision 2022 and publicly released dataset.
 
     - title: Software Engineer
       institution: Cirrus Aircraft
@@ -76,21 +77,21 @@
       items: 
         - Dean's List at University of Minnesota
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Computer Vision
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Machine Learning
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Robotics
-#       items:
-#         - Description 1.
-#         - Description 2.
+- title: Tools/Skills
+  type: nested_list
+  contents:
+    - title: Computer Vision
+      items: 
+        - Tools - Python, MATLAB, OpenCV, PyTorch, SciKit Learn, Open3D
+        - Skills - Segmentation, 6D Pose Estimation, Stereo Vision, Tracking, Camera Calibration
+    - title: Machine Learning
+      items:
+        - Tools - Python, Pytorch, Ubuntu, Linux, Github, Weights&Biases, Cuda, Pandas, Numpy
+        - Skills - Training/Evaluation of Deep Networks, CNNs, Self-Supervised Learning, LSTMs
+    - title: Robotics
+      items:
+        - Tools - ROS, PyBullet, PyRender, Ubuntu, Linux
+        - Skills - SLAM, Camera Calibration, Grasp Estimation
 
 - title: Other Interests
   type: list
