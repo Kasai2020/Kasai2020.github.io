@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Egocentric Prediction of Hand-Object Interaction
+description: Intro to Computer Vision
 img:
 importance: 3
-category: fun
+category: class projects
 ---
 
 Every project has a beautiful feature showcase page.
