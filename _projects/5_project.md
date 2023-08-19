@@ -2,7 +2,7 @@
 layout: page
 title: Deep Scene Relighting for Video
 description: 3D Multiview Computer Vision
-img: assets/img/1.jpg
+img: assets/img/relighting.png
 redirect: https://www.luisjguzman.com/media/Csci5563/Project_Report__Deep_Scene_Relighting_For_Video.pdf
 importance: 3
 category: class projects
