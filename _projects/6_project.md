@@ -2,7 +2,7 @@
 layout: page
 title: Forecasting of COVID-19 Cases Using Google Mobility Data
 description: Machine Learning
-img:
+img: assets/img/lstm.png
 redirect: https://www.luisjguzman.com/media/Csci5525/Forecasting_of_COVID_19_Cases_Using_Time_Series_Analysis_of_Google_Mobility_Data.pdf
 importance: 4
 category: class projects
