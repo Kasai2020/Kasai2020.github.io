@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Rotate-Inpaint-Complete
+title: Rotate-Inpaint-Complete for Generalizable Scene Reconstruction
 description: Pending Publication
 img: assets/img/3.jpg
+redirect: http://arxiv.org/abs/2307.11932
 importance: 2
 category: publications
 ---
