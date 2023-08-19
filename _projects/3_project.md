@@ -2,7 +2,7 @@
 layout: page
 title: Simultaneous Shape & Grasp Estimation
 description: IROS 2023
-img: assets/img/7.jpg
+img: assets/img/scene_grasp.png
 redirect: http://arxiv.org/abs/2305.09510
 importance: 3
 category: publications
