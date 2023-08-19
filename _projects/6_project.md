@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Forecasting of COVID-19 Cases Using Google Mobility Data
+description: Machine Learning
 img:
 importance: 4
-category: fun
+category: class projects
 ---
 
 Every project has a beautiful feature showcase page.
