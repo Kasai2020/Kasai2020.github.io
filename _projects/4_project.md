@@ -3,6 +3,7 @@ layout: page
 title: Egocentric Prediction of Hand-Object Interaction
 description: Intro to Computer Vision
 img:
+redirect: https://www.luisjguzman.com/media/Csci5561/Project_Report__Egocentric_Prediction_of_Hand_Object_Interaction.pdf
 importance: 3
 category: class projects
 ---
