@@ -2,7 +2,7 @@
 layout: page
 title: Self-Supervised Driver Gaze Estimation
 description: ECCV 2022
-img: assets/img/12.jpg
+img: assets/img/lbw.png
 redirect: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf
 importance: 1
 category: publications
