@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Deep Scene Relighting for Video
+description: 3D Multiview Computer Vision
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: class projects
 ---
 
 Every project has a beautiful feature showcase page.
