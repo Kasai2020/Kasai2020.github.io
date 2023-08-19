@@ -35,7 +35,7 @@
       institution: Samsung AI Center NYC
       year: 2023
       description:
-        - D
+        - Worked on both integrating computer vision algorithms on to real robots/devices as well as developing novel contributions to the field of computer vision.
         - title: Worked on projects such as
           contents:
             - 6D Object Pose Estimation for Robotic Grasping
@@ -46,7 +46,11 @@
       institution: Samsung AI Center NYC
       year: 2022-2023
       description:
-        - D
+        - title: Worked on implementing real-time practical computer vision algorithms for a real robot arm grasping challenge.
+          contents:
+            - Focused in estimating 3D locations of glass objects for grasping.
+            - Retraining a 6D pose/shape estimation network on in-house data.
+        - Created a realistic synthetic dataset using PyBullet and PyRender across multiple computers/gpus using Ray.
 
     - title: Research Assistant
       institution: University of Minnesota
@@ -62,10 +66,14 @@
     - title: Software Engineer
       institution: Cirrus Aircraft
       year: 2019
+      description:
+        - Developed strong coding/communication skills while learning about software requirements for aircraft avionics components.
 
     - title: Software Intern
       institution: Cirrus Aircraft
       year: 2018
+      description:
+        - Worked on developing algorithms for experimental sensors on the SF50 Jet.
 
 - title: Honors and Awards
   type: time_table
