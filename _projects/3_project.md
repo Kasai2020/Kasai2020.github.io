@@ -5,7 +5,7 @@ description: IROS 2023
 img: assets/img/scene_grasp.png
 redirect: http://arxiv.org/abs/2305.09510.pdf
 importance: 7
-category: publications
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
