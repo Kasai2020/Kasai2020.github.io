@@ -5,7 +5,7 @@ description: ECCV 2022
 img: assets/img/lbw.png
 redirect: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf
 importance: 2
-category: publications
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
