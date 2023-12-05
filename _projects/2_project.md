@@ -2,7 +2,7 @@
 layout: page
 title: Rotate-Inpaint-Complete for Generalizable Scene Reconstruction
 description: Pending Publication
-img: assets/img/rico.png
+img: assets/img/ric_paper.gif
 redirect: http://arxiv.org/abs/2307.11932.pdf
 importance: 3
 category: projects
