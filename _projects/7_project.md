@@ -4,8 +4,8 @@ title: FineControlNet
 description: Pending Publication
 img: assets/img/fcn_label.gif
 redirect: 
-importance: 1
-category: publications
+importance: 4
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
