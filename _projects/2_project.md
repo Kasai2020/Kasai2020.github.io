@@ -5,7 +5,7 @@ description: Pending Publication
 img: assets/img/rico.png
 redirect: http://arxiv.org/abs/2307.11932.pdf
 importance: 3
-category: publications
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
