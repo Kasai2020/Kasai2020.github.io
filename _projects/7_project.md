@@ -4,7 +4,7 @@ title: FineControlNet
 description: Pending Publication
 img: assets/img/fcn_label.gif
 redirect: 
-importance: 4
+importance: 1
 category: projects
 ---
 
