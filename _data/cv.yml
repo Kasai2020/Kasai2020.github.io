@@ -15,7 +15,7 @@
       institution: University of Minnesota
       year: 2022
       description:
-        - Learned and implemented traditional and deep learning computer vision methods such as, camera pose estimation, multi-view camera calibration, bundle adjustment, stereo vision, key-point detection, segmentation, and more.
+        - Implemented traditional and deep learning computer vision methods such as, camera pose estimation, multi-view camera calibration, bundle adjustment, stereo vision, key-point detection, segmentation, and more.
         - Acquired hands-on experience in applying common robotics algorithms such as SLAM, wall detection, visual servoing, forward kinematics, inverse kinematics, quaternions, etc.
         # - title: 
         #   contents:
@@ -26,32 +26,32 @@
       year: 2019
       description:
         - Acquired a solid understanding of essential data structures like arrays, linked lists, stacks, queues, trees, and graphs. 
-        - Along with in depth knowledge of manipulating and searching these datastructures with algorithms such as sorting algorithms, search algorithms, greedy algorithms, etc.
+        - Manipulated and searched the aformentioned datastructures with algorithms such as sorting algorithms, search algorithms, greedy algorithms, etc.
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Engineer
       institution: Samsung AI Center NYC
-      year: 2023
+      year: 2023-Present
       description:
-        - Worked on both integrating computer vision algorithms on to real robots/devices as well as developing novel contributions to the field of computer vision.
+        - Worked on both integrating computer vision algorithms onto real robots/devices as well as developing novel contributions to the field of computer vision.
         - title: Worked on projects such as
           contents:
+            - Fine-grained Control for Pose Conditioned Image Generation
             - 6D Object Pose Estimation for Robotic Grasping
             - Generalizable 3D Scene Reconstruction
             - Tracking/Following Humans with Mobile Robots
-            - Lidar from Mobile Robot to Floorplan Generation
+            - LiDAR from Mobile Robot to Floorplan Generation
     - title: Research Intern
       institution: Samsung AI Center NYC
       year: 2022-2023
       description:
-        - title: Worked on implementing real-time practical computer vision algorithms for a real robot arm grasping challenge.
+        - title: Worked on implementing real-time practical computer vision algorithms for a physical robot arm grasping challenge.
           contents:
             - Focused in estimating 3D locations of glass objects for grasping.
             - Retraining a 6D pose/shape estimation network on in-house data.
-        - Created a realistic synthetic dataset using PyBullet and PyRender across multiple computers/gpus using Ray.
-
+        - Created a realistic synthetic dataset using PyBullet and PyRender distributed across multiple computers/gpus using Ray.
     - title: Research Assistant
       institution: University of Minnesota
       year: 2021-2022
