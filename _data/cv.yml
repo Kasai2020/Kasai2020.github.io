@@ -5,8 +5,6 @@
       value: Isaac Kasahara
     - name: Email
       value: Isaac.Kasahara@gmail.com
-    - name: Languages
-      value: English
 
 - title: Education
   type: time_table
