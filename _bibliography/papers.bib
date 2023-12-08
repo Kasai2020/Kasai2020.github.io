@@ -19,8 +19,8 @@ pages="126--142",
 abstract="We present a new on-road driving dataset, called ``Look Both Ways'', which contains synchronized video of both driver faces and the forward road scene, along with ground truth gaze data registered from eye tracking glasses worn by the drivers. Our dataset supports the study of methods for non-intrusively estimating a driver's focus of attention while driving - an important application area in road safety. A key challenge is that this task requires accurate gaze estimation, but supervised appearance-based gaze estimation methods often do not transfer well to real driving datasets, and in-domain ground truth to supervise them is difficult to gather. We therefore propose a method for self-supervision of driver gaze, by taking advantage of the geometric consistency between the driver's gaze direction and the saliency of the scene as observed by the driver. We formulate a 3D geometric learning framework to enforce this consistency, allowing the gaze model to supervise the scene saliency model, and vice versa. We implement a prototype of our method and test it with our dataset, to show that compared to a supervised approach it can yield better gaze estimation and scene saliency estimation with no additional labels.",
 isbn="978-3-031-19778-9",
 selected={true},
-preview={gaze.gif}
-website={https://github.com/Kasai2020/look_both_ways}
+preview={gaze.gif},
+website={https://github.com/Kasai2020/look_both_ways},
 pdf={https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf}
 }
 
@@ -34,8 +34,8 @@ pdf={https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf}
       primaryClass={cs.RO},
       abstract={Robotic manipulation systems operating in complex environments rely on perception systems that provide information about the geometry (pose and 3D shape) of the objects in the scene along with other semantic information such as object labels. This information is then used for choosing the feasible grasps on relevant objects. In this paper, we present a novel method to provide this geometric and semantic information of all objects in the scene as well as feasible grasps on those objects simultaneously. The main advantage of our method is its speed as it avoids sequential perception and grasp planning steps. With detailed quantitative analysis, we show that our method delivers competitive performance compared to the state-of-the-art dedicated methods for object shape, pose, and grasp predictions while providing fast inference at 30 frames per second speed.},
       selected={true},
-      preview={scene_grasp.gif}
-      website={https://samsunglabs.github.io/SceneGrasp-project-page/}
+      preview={scene_grasp.gif},
+      website={https://samsunglabs.github.io/SceneGrasp-project-page/},
       arxiv={2305.09510}
 }
 
@@ -50,8 +50,8 @@ pdf={https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf}
       primaryClass={cs.CV},
       abstract={General scene reconstruction refers to the task of estimating the full 3D geometry and texture of a scene containing previously unseen objects. In many practical applications such as AR/VR, autonomous navigation, and robotics, only a single view of the scene may be available, making the scene reconstruction a very challenging task. In this paper, we present a method for scene reconstruction by structurally breaking the problem into two steps: rendering novel views via inpainting and 2D to 3D scene lifting. Specifically, we leverage the generalization capability of large language models to inpaint the missing areas of scene color images rendered from different views. Next, we lift these inpainted images to 3D by predicting normals of the inpainted image and solving for the missing depth values. By predicting for normals instead of depth directly, our method allows for robustness to changes in depth distributions and scale. With rigorous quantitative evaluation, we show that our method outperforms multiple baselines while providing generalization to novel objects and scenes.},
       preview={ric.gif},
-      selected={true}
-      website={https://samsunglabs.github.io/RIC-project-page/}
+      selected={true},
+      website={https://samsunglabs.github.io/RIC-project-page/},
       arxiv={2307.11932}
 }
 
@@ -64,6 +64,6 @@ pdf={https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf}
       primaryClass={cs.CV},
       abstract={Recently introduced ControlNet has the ability to steer the text-driven image generation process with geometric input such as human 2D pose, or edge features. While ControlNet provides control over the geometric form of the instances in the generated image, it lacks the capability to dictate the visual appearance of each instance. We present FineControlNet to provide fine control over each instance’s appearance while maintaining the precise pose control capability. Specifically, we develop and demonstrate FineControlNet with geometric control via human pose images and appearance control via instance-level text prompts. The spatial alignment of instance-specific text prompts and 2D poses in latent space enables the fine control capabilities of FineControlNet. We evaluate the performance of FineControlNet with rigorous comparison against state-of-the-art pose-conditioned text-to-image diffusion models. FineControlNet achieves superior performance in generating images that follow the user-provided instance-specific text prompts and poses.},
       preview={fcn.gif},
-      selected={true}
+      selected={true},
       website={https://samsunglabs.github.io/FineControlNet-project-page/}
 }
