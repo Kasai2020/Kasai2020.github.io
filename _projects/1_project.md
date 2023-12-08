@@ -3,7 +3,7 @@ layout: page
 title: Self-Supervised Driver Gaze Estimation
 description: ECCV 2022
 img: assets/img/lbw.png
-redirect: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf
+redirect: https://github.com/Kasai2020/look_both_ways
 importance: 2
 category: projects
 ---
