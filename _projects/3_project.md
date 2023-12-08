@@ -3,7 +3,7 @@ layout: page
 title: Simultaneous Shape & Grasp Estimation
 description: IROS 2023
 img: assets/img/scene_grasp.gif
-redirect: http://arxiv.org/abs/2305.09510.pdf
+redirect: https://samsunglabs.github.io/SceneGrasp-project-page/
 importance: 4
 category: projects
 ---
