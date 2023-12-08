@@ -3,7 +3,7 @@ layout: page
 title: Rotate-Inpaint-Complete for Generalizable Scene Reconstruction
 description: Pending Publication
 img: assets/img/RIC.gif
-redirect: http://arxiv.org/abs/2307.11932.pdf
+redirect: https://samsunglabs.github.io/RIC-project-page/
 importance: 3
 category: projects
 ---
