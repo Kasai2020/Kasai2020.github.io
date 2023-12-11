@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Samsung AI NYC</p>
-    <p>U of Minnesota</p>
+    <p>&nbsp&nbsp&nbsp Samsung AI NYC</p>
+    <p>&nbsp&nbsp&nbsp U of Minnesota</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
