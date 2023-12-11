@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Samsung AI NYC</p>
-    <p>30 W 26th St</p>
-    <p>New York, NY 10010</p>
+    <p>U of Minnesota</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
