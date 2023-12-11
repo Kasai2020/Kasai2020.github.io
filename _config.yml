@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 keywords: Isaac, Kasahara, Computer Vision, Machine Learning, UMN, Samsung, ICCV, ECCV  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: logo_square.png     #⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.png     #⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Kasai2020.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
